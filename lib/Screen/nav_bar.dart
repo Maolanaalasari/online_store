@@ -26,7 +26,7 @@ class _HomeScreenState extends State<BottomNavBar> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue[100],
+      backgroundColor: Color.fromARGB(255, 246, 251, 255),
       // extendBody: true,
       bottomNavigationBar: Padding(
         padding: const EdgeInsets.symmetric(vertical: 10.0, horizontal: 10),

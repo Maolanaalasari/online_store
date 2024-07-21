@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue[100],
+      backgroundColor: Color.fromARGB(255, 246, 251, 255),
       body: SingleChildScrollView(
         child: SafeArea(
             top: true,

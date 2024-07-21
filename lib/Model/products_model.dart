@@ -1,7 +1,7 @@
 const ourProducts = [
   {
-    'image': // this image from netwrok  you can takes from assets as well
-        "https://hips.hearstapps.com/hmg-prod/images/winter-outfits-pop-of-color-1669664402.jpg?crop=0.425xw:0.798xh;0.253xw,0.202xh&resize=980:*",
+    'image':
+        "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/107/MTA-134688734/brd-44261_import-man-hoodie-winter-coat-jacket-classic-jaket-gunung-pria-musim-dingin-dengan-penutup-kepala-mantel-laki_full01-3c6be53a.jpg",
     'discount': ' -40%',
     'title': 'Winter Jacket',
     'price': '\$900',
@@ -11,7 +11,7 @@ const ourProducts = [
   },
   {
     'image':
-        "https://i0.wp.com/yarlmart.lk/wp-content/uploads/2021/09/Women-Summer-Dress-Cute-Loose-Striped-Print-Ruffles-Sleeves-Dresses-Elegant-A-Line-Patchwork-Beach-Party-4.jpg?fit=600%2C600&ssl=1",
+        "https://alysonhaley.com/wp-content/uploads/2023/05/o.p.t.-white-midi-dress-valentino-garavini-rockstud-60-leather-sandals-loewe-basket-tote-bag-summer-outfit-london-notting-hill7-scaled.jpg",
     'discount': ' -24%',
     'title': 'Summer Dress',
     'price': '\$699',
@@ -30,7 +30,8 @@ const ourProducts = [
         "Clothing is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. ",
   },
   {
-    'image': "https://i.ebayimg.com/images/g/Rg0AAOSwNjZgzHUA/s-l1200.webp",
+    'image':
+        "https://palkhifashion.com/cdn/shop/files/Mauve_GreenTussarLehengaCholiAHeritageFusioninBreathtakingColor_2_4f6f5da2-e1d0-429b-84b9-df5b4e7e4ea2.jpg?v=1713892416&width=1000",
     'discount': '35%',
     'title': 'Lehenga Choli',
     'price': '\$2000',
@@ -70,7 +71,7 @@ const ourProducts = [
   },
   {
     'image':
-        "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51uYVczAJaL._AC_UY350_.jpg",
+        "https://www.sojoee.com/wp-content/uploads/2023/12/TPBL-151-White-vogue-print-tshirt-for-women.jpg",
     'discount': ' -20%',
     'title': 'T Shirts Women',
     'price': '\$200',
@@ -113,7 +114,7 @@ const ourProducts = [
 const trendingProducts = [
   {
     'image':
-        "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51uYVczAJaL._AC_UY350_.jpg",
+        "https://executive.co.id/cdn/shop/files/5-TSKBSC586O013_MOONBEAM_4_T_3b525d98-0c3c-4a62-9448-fe1edd67feb3_1024x1024.jpg?v=1716801728",
     'discount': ' -20%',
     'title': 'T Shirts Women',
     'price': '\$200',
@@ -132,7 +133,8 @@ const trendingProducts = [
         "Clothing is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. ",
   },
   {
-    'image': "https://i.ebayimg.com/images/g/Rg0AAOSwNjZgzHUA/s-l1200.webp",
+    'image':
+        "https://cdn-brilio-net.akamaized.net/news/2019/07/15/167236/1065681-1000xauto-gaun-pengantin.jpg",
     'discount': '35%',
     'title': 'Lehenga Choli',
     'price': '\$2000',
@@ -142,7 +144,7 @@ const trendingProducts = [
   },
   {
     'image':
-        "https://hips.hearstapps.com/hmg-prod/images/winter-outfits-pop-of-color-1669664402.jpg?crop=0.425xw:0.798xh;0.253xw,0.202xh&resize=980:*",
+        "https://www.pointzero.ca/cdn/shop/collections/promo3.jpg?v=1695234398",
     'discount': ' -40%',
     'title': 'Winter Jacket',
     'price': '\$900',
@@ -152,7 +154,7 @@ const trendingProducts = [
   },
   {
     'image':
-        "https://i0.wp.com/yarlmart.lk/wp-content/uploads/2021/09/Women-Summer-Dress-Cute-Loose-Striped-Print-Ruffles-Sleeves-Dresses-Elegant-A-Line-Patchwork-Beach-Party-4.jpg?fit=600%2C600&ssl=1",
+        "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/5/17/a825a9b5-412d-4788-9996-bc97d60f640e.jpg",
     'discount': ' -24%',
     'title': 'Summer Dress',
     'price': '\$699',
